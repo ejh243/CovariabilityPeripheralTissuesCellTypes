@@ -1,6 +1,6 @@
 # CovariabilityPeripheralTissuesCellTypes
 
-This repository contains analysis scripts for our manuscript characterising differences in DNA methylation profiles between periperhal tissues and blood cell types. 
+This repository contains analysis scripts for our manuscript characterising differences in DNA methylation profiles between periperhal tissues and blood cell types, and  how variation in blood cell types combines to influence variation in whole blood. 
 
 ## Citation
 
